@@ -1,0 +1,21 @@
+emp_id,emp_name,department,job_title,salary,hire_date,city
+101,Amit Sharma,IT,Data Analyst,65000,2019-06-15,Bangalore
+102,Neha Verma,HR,HR Executive,48000,2020-02-20,Delhi
+103,Rahul Singh,Finance,Accountant,55000,2018-09-10,Mumbai
+104,Priya Patel,IT,Data Engineer,85000,2021-01-05,Ahmedabad
+105,Ankit Kumar,Sales,Sales Executive,50000,2019-11-25,Noida
+106,Sneha Iyer,Marketing,Marketing Analyst,60000,2020-07-18,Chennai
+107,Vikram Rao,IT,Software Engineer,78000,2017-04-12,Hyderabad
+108,Pooja Mehta,Finance,Financial Analyst,72000,2021-03-30,Pune
+109,Karan Malhotra,HR,Recruiter,52000,2019-08-14,Gurgaon
+110,Ritu Saxena,Sales,Sales Manager,90000,2016-12-01,Delhi
+111,Arjun Nair,IT,Cloud Engineer,88000,2022-05-10,Kochi
+112,Nisha Kulkarni,Marketing,SEO Specialist,58000,2021-09-07,Pune
+113,Sachin Joshi,Finance,Audit Executive,62000,2018-01-22,Indore
+114,Divya Chawla,HR,HR Manager,95000,2015-06-19,Chandigarh
+115,Rohit Agarwal,Sales,Key Account Manager,82000,2017-10-03,Kolkata
+116,Meenal Shah,IT,BI Developer,74000,2020-11-27,Surat
+117,Akash Gupta,Marketing,Content Strategist,54000,2022-02-14,Jaipur
+118,Sunita Reddy,Finance,Finance Manager,98000,2014-04-08,Hyderabad
+119,Manoj Yadav,IT,System Administrator,67000,2019-03-16,Bhopal
+120,Anjali Deshmukh,HR,HR Analyst,56000,2021-12-02,Nagpur
